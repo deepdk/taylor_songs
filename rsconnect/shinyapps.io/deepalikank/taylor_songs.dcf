@@ -1,0 +1,12 @@
+name: taylor_songs
+title: taylor_songs
+username: deepalikank
+account: deepalikank
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12258468
+bundleId: 8810249
+url: https://deepalikank.shinyapps.io/taylor_songs/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
